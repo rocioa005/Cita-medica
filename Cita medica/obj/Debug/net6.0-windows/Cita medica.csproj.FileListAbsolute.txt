@@ -1,0 +1,28 @@
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\Cita medica.exe
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\Cita medica.deps.json
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\Cita medica.runtimeconfig.json
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\Cita medica.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\Cita medica.pdb
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.csproj.AssemblyReference.cache
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.Properties.Resources.resources
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.csproj.GenerateResource.cache
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.AssemblyInfoInputs.cache
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.AssemblyInfo.cs
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.csproj.CoreCompileInputs.cache
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\refint\Cita medica.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.pdb
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.genruntimeconfig.cache
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\ref\Cita medica.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.Form2.resources
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.PaginaInicio.resources
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.Login.resources
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita medica.csproj.CopyComplete
+C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.PaginaGeneral.resources
