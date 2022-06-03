@@ -58,5 +58,10 @@ namespace Cita_medica
 
 
         }
+
+        private void botInicioSec_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

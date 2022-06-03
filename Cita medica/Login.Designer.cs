@@ -66,7 +66,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(454, 160);
+            this.label1.Location = new System.Drawing.Point(454, 152);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(137, 20);
             this.label1.TabIndex = 1;
@@ -74,14 +74,14 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(454, 193);
+            this.textBox1.Location = new System.Drawing.Point(454, 187);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(206, 27);
             this.textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(454, 290);
+            this.textBox2.Location = new System.Drawing.Point(454, 284);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(206, 27);
             this.textBox2.TabIndex = 3;
@@ -90,7 +90,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(454, 257);
+            this.label2.Location = new System.Drawing.Point(454, 251);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(83, 20);
             this.label2.TabIndex = 4;
@@ -101,18 +101,19 @@
             this.botInicioSec.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.botInicioSec.FlatAppearance.BorderSize = 0;
             this.botInicioSec.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.botInicioSec.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.botInicioSec.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.botInicioSec.ForeColor = System.Drawing.Color.White;
-            this.botInicioSec.Location = new System.Drawing.Point(454, 50);
+            this.botInicioSec.Location = new System.Drawing.Point(516, 78);
             this.botInicioSec.Name = "botInicioSec";
-            this.botInicioSec.Size = new System.Drawing.Size(125, 29);
+            this.botInicioSec.Size = new System.Drawing.Size(165, 29);
             this.botInicioSec.TabIndex = 5;
             this.botInicioSec.Text = "Iniciar sesion";
             this.botInicioSec.UseVisualStyleBackColor = false;
+            this.botInicioSec.Click += new System.EventHandler(this.botInicioSec_Click);
             // 
             // botAcceder
             // 
-            this.botAcceder.Location = new System.Drawing.Point(442, 385);
+            this.botAcceder.Location = new System.Drawing.Point(442, 377);
             this.botAcceder.Name = "botAcceder";
             this.botAcceder.Size = new System.Drawing.Size(123, 45);
             this.botAcceder.TabIndex = 7;
@@ -122,7 +123,7 @@
             // 
             // botSalir
             // 
-            this.botSalir.Location = new System.Drawing.Point(604, 385);
+            this.botSalir.Location = new System.Drawing.Point(604, 377);
             this.botSalir.Name = "botSalir";
             this.botSalir.Size = new System.Drawing.Size(123, 45);
             this.botSalir.TabIndex = 8;

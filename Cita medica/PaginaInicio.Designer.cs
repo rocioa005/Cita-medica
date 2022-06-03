@@ -38,15 +38,15 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.SteelBlue;
+            this.button1.BackColor = System.Drawing.Color.Teal;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.SteelBlue;
             this.button1.FlatAppearance.BorderSize = 2;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button1.Location = new System.Drawing.Point(513, 584);
+            this.button1.Location = new System.Drawing.Point(497, 540);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(292, 69);
+            this.button1.Size = new System.Drawing.Size(324, 69);
             this.button1.TabIndex = 0;
             this.button1.Text = "Acceder";
             this.button1.UseVisualStyleBackColor = false;
@@ -55,11 +55,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Georgia", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Georgia", 61.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(12, 217);
+            this.label1.Location = new System.Drawing.Point(130, 235);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1248, 136);
+            this.label1.Size = new System.Drawing.Size(1080, 119);
             this.label1.TabIndex = 1;
             this.label1.Text = "Vital Health Center\r\n";
             // 
