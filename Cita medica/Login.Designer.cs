@@ -36,7 +36,6 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.botInicioSec = new System.Windows.Forms.Button();
-            this.botRegist = new System.Windows.Forms.Button();
             this.botAcceder = new System.Windows.Forms.Button();
             this.botSalir = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -104,28 +103,12 @@
             this.botInicioSec.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.botInicioSec.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.botInicioSec.ForeColor = System.Drawing.Color.White;
-            this.botInicioSec.Location = new System.Drawing.Point(556, 86);
+            this.botInicioSec.Location = new System.Drawing.Point(454, 50);
             this.botInicioSec.Name = "botInicioSec";
             this.botInicioSec.Size = new System.Drawing.Size(125, 29);
             this.botInicioSec.TabIndex = 5;
             this.botInicioSec.Text = "Iniciar sesion";
             this.botInicioSec.UseVisualStyleBackColor = false;
-            // 
-            // botRegist
-            // 
-            this.botRegist.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.botRegist.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.botRegist.FlatAppearance.BorderSize = 0;
-            this.botRegist.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.botRegist.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.botRegist.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.botRegist.Location = new System.Drawing.Point(442, 86);
-            this.botRegist.Name = "botRegist";
-            this.botRegist.Size = new System.Drawing.Size(108, 29);
-            this.botRegist.TabIndex = 6;
-            this.botRegist.Text = "Registrarse";
-            this.botRegist.UseVisualStyleBackColor = false;
-            this.botRegist.Click += new System.EventHandler(this.button2_Click);
             // 
             // botAcceder
             // 
@@ -154,7 +137,6 @@
             this.ClientSize = new System.Drawing.Size(790, 524);
             this.Controls.Add(this.botSalir);
             this.Controls.Add(this.botAcceder);
-            this.Controls.Add(this.botRegist);
             this.Controls.Add(this.botInicioSec);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox2);
@@ -182,7 +164,6 @@
         private TextBox textBox2;
         private Label label2;
         private Button botInicioSec;
-        private Button botRegist;
         private Button botAcceder;
         private Button botSalir;
     }
