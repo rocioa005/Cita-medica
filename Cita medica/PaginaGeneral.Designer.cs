@@ -42,6 +42,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.panelMenuLateral.SuspendLayout();
             this.panelLogo.SuspendLayout();
             this.panelReportesSubmenu.SuspendLayout();
@@ -263,12 +264,23 @@
             this.label2.Text = "CENTRO CLINICO";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(115)))), ((int)(((byte)(153)))));
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.ForeColor = System.Drawing.Color.Brown;
+            this.panel1.Location = new System.Drawing.Point(341, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1066, 67);
+            this.panel1.TabIndex = 1;
+            // 
             // PaginaGeneral
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1407, 944);
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.panelMenuLateral);
             this.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ForeColor = System.Drawing.Color.Black;
