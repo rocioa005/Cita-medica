@@ -41,5 +41,12 @@ namespace Cita_medica
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            LoginForm login = new LoginForm();
+            this.Hide();
+            login.Show();
+        }
     }
 }

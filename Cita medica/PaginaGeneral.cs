@@ -16,5 +16,10 @@ namespace Cita_medica
         {
             InitializeComponent();
         }
+
+        private void PaginaGeneral_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

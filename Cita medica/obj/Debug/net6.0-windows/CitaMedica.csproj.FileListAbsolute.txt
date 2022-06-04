@@ -26,3 +26,38 @@ C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\ref
 C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.pdb
 C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.genruntimeconfig.cache
 C:\Users\rocio\source\repos\Cita medica\Cita medica\obj\Debug\net6.0-windows\ref\CitaMedica.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedica.exe
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedica.deps.json
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedica.runtimeconfig.json
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedica.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedica.pdb
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.csproj.AssemblyReference.cache
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.Form2.resources
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.PaginaGeneral.resources
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.PaginaInicio.resources
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.Properties.Resources.resources
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.csproj.GenerateResource.cache
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.AssemblyInfoInputs.cache
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.AssemblyInfo.cs
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.csproj.CoreCompileInputs.cache
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.csproj.CopyComplete
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\refint\CitaMedica.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.pdb
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.genruntimeconfig.cache
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\ref\CitaMedica.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedica.dll.config
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedicaDll.dll
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\bin\Debug\net6.0-windows\CitaMedicaDll.pdb
+C:\Users\lachy\source\repos\Cita-medica\Cita medica\obj\Debug\net6.0-windows\Cita_medica.LoginForm.resources
+C:\Users\rocio\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.csproj.AssemblyReference.cache
+C:\Users\rocio\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.dll
+C:\Users\rocio\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted\Cita-medica\Cita medica\obj\Debug\net6.0-windows\refint\CitaMedica.dll
+C:\Users\rocio\Downloads\1253QUANTUMVM.UNRARMETRO_ckbnxvahp5f44!App\Extracted\Cita-medica\Cita medica\obj\Debug\net6.0-windows\CitaMedica.pdb

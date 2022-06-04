@@ -38,18 +38,19 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Teal;
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(16)))), ((int)(((byte)(148)))));
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.SteelBlue;
             this.button1.FlatAppearance.BorderSize = 2;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button1.Location = new System.Drawing.Point(497, 540);
+            this.button1.Location = new System.Drawing.Point(496, 506);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(324, 69);
+            this.button1.Size = new System.Drawing.Size(325, 69);
             this.button1.TabIndex = 0;
             this.button1.Text = "Acceder";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // label1
             // 
@@ -59,7 +60,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(130, 235);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1080, 119);
+            this.label1.Size = new System.Drawing.Size(1072, 118);
             this.label1.TabIndex = 1;
             this.label1.Text = "Vital Health Center\r\n";
             // 
@@ -87,6 +88,7 @@
             this.Controls.Add(this.button1);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.DoubleBuffered = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "PaginaInicio";
             this.Text = "Vital Health Centro Medico";
             this.Load += new System.EventHandler(this.PaginaInicio_Load);
