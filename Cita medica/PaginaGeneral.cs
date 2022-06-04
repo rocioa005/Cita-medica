@@ -17,9 +17,58 @@ namespace Cita_medica
             InitializeComponent();
         }
 
+        private void hideSubMenu()
+        {
+            panelReportesSubmenu.Visible = false;
+     
+        }
+
+        private void showSubMenu(Panel submenu)
+        {
+            if (panelReportesSubmenu.Visible == false)
+            {
+                hideSubMenu();
+                panelReportesSubmenu.Visible = true;
+            }
+            else
+                panelReportesSubmenu.Visible = false;
+        }
+
         private void PaginaGeneral_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelReportesSubmenu_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void buttonMedicos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonCitas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonPacientes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonReportes_Click(object sender, EventArgs e)
+        {
+            {
+                showSubMenu(panelReportesSubmenu;
+            }
         }
     }
 }
