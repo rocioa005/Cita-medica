@@ -23,7 +23,7 @@ namespace Cita_medica
      
         }
 
-        private void showSubMenu(Panel submenu)
+        private void showSubMenu(Panel panelReportesSubmenu)
         {
             if (panelReportesSubmenu.Visible == false)
             {
@@ -41,7 +41,7 @@ namespace Cita_medica
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void panelReportesSubmenu_Paint(object sender, PaintEventArgs e)
@@ -69,6 +69,27 @@ namespace Cita_medica
             {
                 showSubMenu(panelReportesSubmenu;
             }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+               
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            {
+                open(new Form2());
+                //..
+                //your codes
+                //..
+                hidepanelReportesSubmenu();
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
