@@ -16,5 +16,10 @@ namespace Cita_medica
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

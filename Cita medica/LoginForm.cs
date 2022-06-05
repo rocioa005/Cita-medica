@@ -46,6 +46,8 @@ namespace Cita_medica
                 txtPass.Text = "";
 
             }
+
+
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)

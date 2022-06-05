@@ -50,7 +50,7 @@
             // 
             // panelMenuLateral
             // 
-            this.panelMenuLateral.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(61)))));
+            this.panelMenuLateral.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(34)))), ((int)(((byte)(51)))));
             this.panelMenuLateral.Controls.Add(this.panelReportesSubmenu);
             this.panelMenuLateral.Controls.Add(this.buttonReportes);
             this.panelMenuLateral.Controls.Add(this.buttonPacientes);
@@ -63,6 +63,7 @@
             this.panelMenuLateral.Name = "panelMenuLateral";
             this.panelMenuLateral.Size = new System.Drawing.Size(341, 944);
             this.panelMenuLateral.TabIndex = 0;
+            this.panelMenuLateral.Paint += new System.Windows.Forms.PaintEventHandler(this.panelMenuLateral_Paint);
             // 
             // panelLogo
             // 
@@ -78,7 +79,9 @@
             // 
             // buttonMedicos
             // 
-            this.buttonMedicos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(179)))), ((int)(((byte)(204)))));
+            this.buttonMedicos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(85)))), ((int)(((byte)(128)))));
+            this.buttonMedicos.FlatAppearance.BorderSize = 0;
+            this.buttonMedicos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonMedicos.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.buttonMedicos.ForeColor = System.Drawing.Color.Black;
             this.buttonMedicos.Location = new System.Drawing.Point(45, 236);
@@ -92,7 +95,9 @@
             // 
             // buttonCitas
             // 
-            this.buttonCitas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(179)))), ((int)(((byte)(204)))));
+            this.buttonCitas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(85)))), ((int)(((byte)(128)))));
+            this.buttonCitas.FlatAppearance.BorderSize = 0;
+            this.buttonCitas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonCitas.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.buttonCitas.ForeColor = System.Drawing.Color.Black;
             this.buttonCitas.Location = new System.Drawing.Point(45, 342);
@@ -106,7 +111,9 @@
             // 
             // buttonPacientes
             // 
-            this.buttonPacientes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(179)))), ((int)(((byte)(204)))));
+            this.buttonPacientes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(85)))), ((int)(((byte)(128)))));
+            this.buttonPacientes.FlatAppearance.BorderSize = 0;
+            this.buttonPacientes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonPacientes.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.buttonPacientes.ForeColor = System.Drawing.Color.Black;
             this.buttonPacientes.Location = new System.Drawing.Point(45, 450);
@@ -135,7 +142,7 @@
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(61)))));
+            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(34)))), ((int)(((byte)(51)))));
             this.button4.Dock = System.Windows.Forms.DockStyle.Top;
             this.button4.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
             this.button4.FlatAppearance.BorderSize = 3;
@@ -154,7 +161,9 @@
             // 
             // buttonReportes
             // 
-            this.buttonReportes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(179)))), ((int)(((byte)(204)))));
+            this.buttonReportes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(85)))), ((int)(((byte)(128)))));
+            this.buttonReportes.FlatAppearance.BorderSize = 0;
+            this.buttonReportes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonReportes.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.buttonReportes.ForeColor = System.Drawing.Color.Black;
             this.buttonReportes.Location = new System.Drawing.Point(45, 564);
@@ -168,7 +177,7 @@
             // 
             // button6
             // 
-            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(61)))));
+            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(34)))), ((int)(((byte)(51)))));
             this.button6.Dock = System.Windows.Forms.DockStyle.Top;
             this.button6.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
             this.button6.FlatAppearance.BorderSize = 3;
@@ -187,7 +196,7 @@
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(61)))));
+            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(34)))), ((int)(((byte)(51)))));
             this.button7.Dock = System.Windows.Forms.DockStyle.Top;
             this.button7.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
             this.button7.FlatAppearance.BorderSize = 3;
@@ -206,7 +215,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(61)))));
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(34)))), ((int)(((byte)(51)))));
             this.button1.Dock = System.Windows.Forms.DockStyle.Top;
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
             this.button1.FlatAppearance.BorderSize = 3;
@@ -224,7 +233,7 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(61)))));
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(34)))), ((int)(((byte)(51)))));
             this.button2.Dock = System.Windows.Forms.DockStyle.Top;
             this.button2.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
             this.button2.FlatAppearance.BorderSize = 3;
@@ -266,7 +275,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(115)))), ((int)(((byte)(153)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(85)))), ((int)(((byte)(128)))));
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.ForeColor = System.Drawing.Color.Brown;
             this.panel1.Location = new System.Drawing.Point(341, 0);

@@ -91,5 +91,10 @@ namespace Cita_medica
         {
 
         }
+
+        private void panelMenuLateral_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
